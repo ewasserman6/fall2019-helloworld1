@@ -1,10 +1,10 @@
 #include <iostream>
-
+// comments to see if editing works
 using namespace std;
 
-int main(){
-	cout << "hello world" << endl;
-	return 0;
+int main(int argc, char** argv){
+	cout << "hello world yes" << endl;
+	return 1;
 }
 
 
